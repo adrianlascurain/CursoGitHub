@@ -1,4 +1,4 @@
-# Curso de Git y GitHub  :tw-1f4d2:
+# Curso de Git y GitHub  📚
 
 > Este curso me ha permitido comprender los fundamentos de Git para poder tener un mejor control de los cambios en mis archivos de texto plano. A su vez logré comprender el funcionamiento de Git en la nube (Git Hub) para poder acceder a un repositorio de manera remota. 
 
