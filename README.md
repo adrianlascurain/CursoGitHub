@@ -10,6 +10,7 @@
 * Buenas y malas prácticas de Git y GitHub
 * Casos reales del uso de git y github 
 * Ejemplos en Windows, Linux y Mac
+* Creación de comandos personalizados con alias
 * Comandos de Git y GitHub 
   * `$ git add`
   * `$ git commit -am "mensaje"`
