@@ -9,6 +9,7 @@
 * Flujo de trabajo remoto y local con git y GitHub
 * Buenas y malas prácticas de Git y GitHub
 * Casos reales del uso de git y github 
+* Ejemplos en Windows, Linux y Mac
 * Comandos de Git y GitHub 
   * `$ git add`
   * `$ git commit -am "mensaje"`
